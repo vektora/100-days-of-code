@@ -9,4 +9,9 @@
 
 **Link to work:** (https://repl.it/@AnnaKudinova/some-and-every-functions)
 
+### Day 2: June 6th, 2018
 
+
+**Today's Progress**: Finished Basic CSS section of "FreeCodeCamp.org"
+
+**Thoughts:** I like the new version of "FreeCodeCamp.org" curriculum.
