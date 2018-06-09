@@ -22,3 +22,9 @@
 **Today's Progress**: Studied REDUCE array method, solved 4 challenges from Udemy "The Advanced Web Developer Bootcamp" course using this method (lectures 114 - 115). Finished Applied Visual Design section of "FreeCodeCamp.org".
 
 **Link to work:**  (https://repl.it/@AnnaKudinova/Reduce-function)
+
+### Day 4: June 8th, 2018
+
+
+**Today's Progress**:  Finished Applied Accessibility section of "FreeCodeCamp.org".
+
