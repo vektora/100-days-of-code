@@ -28,3 +28,12 @@
 
 **Today's Progress**:  Finished Applied Accessibility section of "FreeCodeCamp.org".
 
+
+### Day 5: June 9th, 2018
+
+
+**Today's Progress**: Finished Responsive Web Design Principles of "FreeCodeCamp.org". Solved 4 new challenges using REDUCE method.
+
+**Thoughts:** I am going to start a JavaScript blog and first articles will be to forEach, some, every, map, filter and reduce methods with a bunch of challenges. 
+
+**Link to work:** ((https://repl.it/@AnnaKudinova/Reduce-function)
