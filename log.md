@@ -21,7 +21,7 @@
 
 **Today's Progress**: Studied REDUCE array method, solved 4 challenges from Udemy "The Advanced Web Developer Bootcamp" course using this method (lectures 114 - 115). Finished Applied Visual Design section of "FreeCodeCamp.org".
 
-**Link to work:**  (https://repl.it/@AnnaKudinova/Reduce-function)
+**Link to work:**  (https://repl.it/@AnnaKudinova/reduce-function)
 
 ### Day 4: June 8th, 2018
 
@@ -36,4 +36,4 @@
 
 **Thoughts:** I am going to start a JavaScript blog and first articles will be to forEach, some, every, map, filter and reduce methods with a bunch of challenges. 
 
-**Link to work:** ((https://repl.it/@AnnaKudinova/Reduce-function)
+**Link to work:** ((https://repl.it/@AnnaKudinova/reduce-function)
