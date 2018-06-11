@@ -36,7 +36,7 @@
 
 **Thoughts:** I am going to start a JavaScript blog and first articles will be to forEach, some, every, map, filter and reduce methods with a bunch of challenges. 
 
-**Link to work:** ((https://repl.it/@AnnaKudinova/reduce-function)
+**Link to work:** (https://repl.it/@AnnaKudinova/reduce-function)
 
 ### Day 6: June 10th, 2018
 
