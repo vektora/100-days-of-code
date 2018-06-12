@@ -42,3 +42,8 @@
 
 
 **Today's Progress**:  Finished CSS Flexbox section of "FreeCodeCamp.org".
+
+### Day 7: June 11th, 2018
+
+
+**Today's Progress**:  Finished CSS Grid section of "FreeCodeCamp.org".
