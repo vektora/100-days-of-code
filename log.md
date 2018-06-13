@@ -47,3 +47,11 @@
 
 
 **Today's Progress**:  Finished CSS Grid section of "FreeCodeCamp.org".
+
+### Day 8: June 12th, 2018
+
+**Today's Progress**: Started Tribute page project.
+
+**Link to work:** (https://codepen.io/Vectora/pen/wXevNx)
+
+
