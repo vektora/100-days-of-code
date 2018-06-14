@@ -54,4 +54,8 @@
 
 **Link to work:** (https://codepen.io/Vectora/pen/wXevNx)
 
+### Day 9: June 13th, 2018
 
+**Today's Progress**: FInished Tribute page project. Started Survey Form project.
+
+**Link to work:** (https://codepen.io/Vectora/pen/qKXOre)
