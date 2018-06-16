@@ -63,3 +63,7 @@
 ### Day 10: June 14th, 2018
 
 **Today's Progress**: Continued working on Survey Form project.
+
+### Day 11: June 15th, 2018
+
+**Today's Progress**:  Started Basic JavaScript section of "FreeCodeCamp.org".
