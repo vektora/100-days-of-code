@@ -67,3 +67,7 @@
 ### Day 11: June 15th, 2018
 
 **Today's Progress**:  Started Basic JavaScript section of "FreeCodeCamp.org".
+
+### Day 12: June 16th, 2018
+
+**Today's Progress**:  Continued Basic JavaScript section of "FreeCodeCamp.org".
