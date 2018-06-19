@@ -76,3 +76,7 @@
 
 **Today's Progress**:  Finished Basic JavaScript section of "FreeCodeCamp.org".
 
+### Day 14: June 17th, 2018
+
+**Today's Progress**:  Started Basic ES6 section of "FreeCodeCamp.org".
+
