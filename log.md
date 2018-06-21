@@ -84,3 +84,6 @@
 
 **Today's Progress**:  Finished Basic ES6 section of "FreeCodeCamp.org".
 
+### Day 16: June 20th, 2018
+
+**Today's Progress**:  Started Regular Expressions section of "FreeCodeCamp.org".
