@@ -91,3 +91,7 @@
 ### Day 17: June 21th, 2018
 
 **Today's Progress**:  Finished Regular Expressions section of "FreeCodeCamp.org".
+
+### Day 18: June 22th, 2018
+
+**Today's Progress**:  Finished Debugging section of "FreeCodeCamp.org".
