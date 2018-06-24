@@ -95,3 +95,8 @@
 ### Day 18: June 22th, 2018
 
 **Today's Progress**:  Finished Debugging section of "FreeCodeCamp.org".
+
+### Day 19: June 23th, 2018
+
+**Today's Progress**:  Finished Basic Data Structures section of "FreeCodeCamp.org".
+
