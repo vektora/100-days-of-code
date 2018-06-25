@@ -100,3 +100,10 @@
 
 **Today's Progress**:  Finished Basic Data Structures section of "FreeCodeCamp.org".
 
+### Day 20: June 24th, 2018
+
+
+**Today's Progress**: Started Basic Algorithm Scripting section of "FreeCodeCamp.org".
+
+
+**Link to work:**  (https://repl.it/@AnnaKudinova/Basic-Algorithm-Scripting)
