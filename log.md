@@ -116,3 +116,11 @@
 
 
 **Link to work:**  (https://repl.it/@AnnaKudinova/Basic-Algorithm-Scripting)
+
+### Day 22: June 26th, 2018
+
+
+**Today's Progress**: Continued working on the Basic Algorithm Scripting section of "FreeCodeCamp.org".
+
+
+**Link to work:**  (https://repl.it/@AnnaKudinova/Basic-Algorithm-Scripting)
