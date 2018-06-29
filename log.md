@@ -130,3 +130,7 @@
 **Today's Progress**: Finished the Basic Algorithm Scripting section of "FreeCodeCamp.org". Started the Object Oriented Programming section of "FreeCodeCamp.org"
 
 **Link to work:**  (https://repl.it/@AnnaKudinova/Basic-Algorithm-Scripting)
+
+### Day 24: June 28th, 2018
+
+**Today's Progress**: Finished the Object Oriented Programming section of "FreeCodeCamp.org"
