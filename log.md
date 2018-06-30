@@ -134,3 +134,7 @@
 ### Day 24: June 28th, 2018
 
 **Today's Progress**: Finished the Object Oriented Programming section of "FreeCodeCamp.org"
+
+### Day 25: June 29th, 2018
+
+**Today's Progress**: Started the Functional Programming section of "FreeCodeCamp.org"
