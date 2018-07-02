@@ -141,5 +141,14 @@
 
 ### Day 26: June 30th, 2018
 
-**Today's Progress**: COntinued working on the Functional Programming section of "FreeCodeCamp.org"
+**Today's Progress**: Continued working on the Functional Programming section of "FreeCodeCamp.org"
+
+### Day 26: June 30th, 2018
+
+**Today's Progress**: Continued working on the Functional Programming section of "FreeCodeCamp.org"
+
+### Day 27: July 1st, 2018
+
+**Today's Progress**: Continued working on the Functional Programming section of "FreeCodeCamp.org"
+
 
